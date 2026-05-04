@@ -16,7 +16,8 @@ Hey! 👋 This is where I keep everything I build during the **Cloud & DevOps** 
 | [Week2](./Week2) | AWS Networking | All Labs from week 2 |
 | [Week3](./Week3) | Servers & Automation | All Labs from week 3 |
 | [Week4](./Week4) | Docker & Containers | All Labs from week 4 |
-| [Week5](./week5) | Terraform, AWS & Ansible Project Development | Project presentation |
+| [Week5](./Week5) | Terraform, AWS & Ansible Project Development | Project presentation |
+| [Week6](./Week6) | Kubernetes, EKS | All Labs from week 6 |
 
 > 🚧 This is always growing — check back in a few weeks!
 
