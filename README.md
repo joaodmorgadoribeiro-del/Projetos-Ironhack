@@ -16,8 +16,9 @@ Hey! 👋 This is where I keep everything I build during the **Cloud & DevOps** 
 | [Week2](./Week2) | AWS Networking | All Labs from week 2 |
 | [Week3](./Week3) | Servers & Automation | All Labs from week 3 |
 | [Week4](./Week4) | Docker & Containers | All Labs from week 4 |
-| [Week5](./Week5) | Terraform, AWS & Ansible Project Development | Project presentation |
+| [Week5](./Week5) | Project 1 -Terraform, AWS & Ansible Project Development | Project presentation |
 | [Week6](./Week6) | Kubernetes, EKS | All Labs from week 6 |
+| [Week7](./Week7) | Project 2 - Containeraized apps on EKS / Azure Labs also| Project 2 presentation and All Labs from week 7 |
 
 > 🚧 This is always growing — check back in a few weeks!
 
@@ -31,8 +32,10 @@ Hey! 👋 This is where I keep everything I build during the **Cloud & DevOps** 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![And More](https://img.shields.io/badge/...and%20more-333333?style=flat)
-
 ---
 
 ## 💻 Want to have a look?
